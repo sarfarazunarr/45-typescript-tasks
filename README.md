@@ -327,4 +327,12 @@ color or an optional feature.
 Print the Object that’s returned to make sure all the information was
 stored correctly.
 
+Note: If you are getting error in running some files that contains ES2016 then you can compile them like this:
+```
+tsc [filename].ts --target es2016
+```
+__________________________________
+These all codes are written by me not copied no AI is used in writing this code.
+__________________________________
+
 ### Thanks to Governor Sindh Kamran Tissori for giving us this next level learning opportunity and Sir Zia khan and other Faculty! ❤
