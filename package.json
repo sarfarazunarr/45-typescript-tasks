@@ -1,0 +1,10 @@
+{
+  "name": "typescript-45",
+  "version": "1.0.0",
+  "description": "Here are 45 Tasks assigned during the typescript course",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sarfaraz Unar",
+  "license": "ISC"
+}
